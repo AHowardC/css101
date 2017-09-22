@@ -1,0 +1,16 @@
+body{
+	background-color: white;
+}
+#google-wrapper{
+	text-align: center;
+	height: 100vh; 
+
+}
+ul, ol{
+	list-style: none;
+}
+
+#footer{
+	position: absolute;
+	bottom: 0;
+}
