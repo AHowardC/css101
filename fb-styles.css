@@ -1,3 +1,7 @@
+ body{
+	background-color: #E9EBEE;
+} 
+
 #header{
 	height: 42px;
 	background-color: #4267B2
@@ -7,7 +11,68 @@
 	max-width: 900px;
 	margin: auto;
 }
+.navbar-left{
+	width: 60%
+}
+.navbar-left input{
+	width: 90%
+	display: inline-block;
+}
 
 .fb-logo{
+	background-image: url('https://www.facebook.com/rsrc.php/v3/ye/r/jNvmNEDilLw.png');
+	background-repeat: no-repeat;
+	background-size: 25px 626px;
+	background-position: 0 -50px;
+	display: block;
+	height: 24px;
+	outline: none;
+	overflow: hidden;
+	text-indent: -999px;
+	white-space: nowrap;
+	width: 24px;	
+}
+
+.navbar-right{
+	width: 38%
+
+}
+.navbar-right > div, .navbar-right li{
+
+}
+#content{
+	max-width: 900px;
+	margin: auto;
+	margin-top: 15px;
+}
+
+#content > div{
+	display: inline-block;
+	vertical-align: top;
+	background-color: #ddd
+	min-height:100vh;
 	
+}
+
+.left-content{
+	width: 30%
+}
+
+.main-content{
+	width: 30%
+}
+
+.right-content{
+	width: 30%
+}
+
+
+
+
+
+
+
+
+#ads{
+	color: white;
 }
