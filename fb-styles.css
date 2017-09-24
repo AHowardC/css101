@@ -81,6 +81,20 @@ a{
 	width: 24px;
 	opacity: .6;	
 }
+#Notifications{
+	display: inline-block;
+	background-image: url('https://www.facebook.com/rsrc.php/v3/y7/r/fyhmnWiv9rH.png');
+	background-repeat: no-repeat;
+	background-size: auto;
+	background-position: 0 -125px;
+	height: 24px;
+	outline: none;
+	overflow: hidden;
+	text-indent: -999px;
+	white-space: nowrap;
+	width: 24px;
+	opacity: .6;
+}
 /* #ads{
 	color: white;
 }
