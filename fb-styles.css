@@ -8,15 +8,15 @@ a{
 }
 
 #header{
-	height: 43px;
+	height: 37px;
 	background-color: #4267B2;
 	color:white;
+	padding-bottom: 10px;
 }
 
 .navbar{
 	max-width: 900px;
 	margin: auto;
-	
 }
 
 .navbar-left{
@@ -30,6 +30,10 @@ a{
 .navbar-left input{
 	width: 90%;
 	display: inline-block;
+	padding: 10px 0 0;
+	height: 12px;
+	margin-top: 10px;
+
 }
 
 .fb-logo{
@@ -44,6 +48,7 @@ a{
 	text-indent: -999px;
 	white-space: nowrap;
 	width: 24px;	
+	margin-top: 10px;
 }
 
 .navbar-right{
@@ -93,6 +98,34 @@ a{
 	text-indent: -999px;
 	white-space: nowrap;
 	width: 24px;
+	opacity: .6;
+}
+.help{
+	display: inline-block;
+	background-image: url('https://www.facebook.com/rsrc.php/v3/y7/r/fyhmnWiv9rH.png');
+	background-repeat: no-repeat;
+	background-size: auto;
+	background-position: 0 -401px;
+	height: 21px;
+	outline: none;
+	overflow: hidden;
+	text-indent: -999px;
+	white-space: nowrap;
+	width: 21px;
+	opacity: .6;
+}
+.down-arrow{
+	display: inline-block;
+	background-image: url('https://www.facebook.com/rsrc.php/v3/y7/r/fyhmnWiv9rH.png');
+	background-repeat: no-repeat;
+	background-size: auto;
+	background-position: 0 -528px;
+	height: 16px;
+	outline: none;
+	overflow: hidden;
+	text-indent: -999px;
+	white-space: nowrap;
+	width: 16px;
 	opacity: .6;
 }
 /* #ads{
